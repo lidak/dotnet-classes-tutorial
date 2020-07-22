@@ -1,0 +1,12 @@
+/Users/ollidak/projects/.net/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/ollidak/projects/.net/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/ollidak/projects/.net/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/ollidak/projects/.net/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/ollidak/projects/.net/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/ollidak/projects/.net/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/ollidak/projects/.net/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/ollidak/projects/.net/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/ollidak/projects/.net/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/Users/ollidak/projects/.net/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/ollidak/projects/.net/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/Users/ollidak/projects/.net/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache
